@@ -5,3 +5,8 @@ ron
 
 head professor
 m mgonegall
+
+Gryffindor traits:
+courage
+chivalry
+determination
